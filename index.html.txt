@@ -1,2 +1,12 @@
-Hi
-tttt
+git add .
+git commit -m "added index html file"
+git status
+git status on branch master
+On branch master
+git status
+On branch master
+git add .
+git commit -m" changed file"
+get status
+git remote add origin https://github.com/JounesGG/github.git
+git push -u origin master
